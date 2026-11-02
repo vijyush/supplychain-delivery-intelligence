@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+# large / regenerable files - NEVER commit (recreate with `make all`)
+data/*.csv
+*.parquet
+*.npz
+outputs/powerbi/fact_orders_sample.csv
+!data/sample_5k.csv

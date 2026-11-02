@@ -1,0 +1,29 @@
+{
+  "total_sales": 36784735.0,
+  "total_profit": 3966903.0,
+  "overall_margin_pct": 10.78,
+  "loss_order_rate": 0.1871,
+  "loss_value": -3883547.0,
+  "worst_categories": [
+    {
+      "Category Name": "Strength Training",
+      "profit": 332.31009052699983
+    },
+    {
+      "Category Name": "CDs ",
+      "profit": 383.849999637
+    },
+    {
+      "Category Name": "As Seen on  TV!",
+      "profit": 714.429979709
+    },
+    {
+      "Category Name": "Books ",
+      "profit": 883.010007794
+    },
+    {
+      "Category Name": "Toys",
+      "profit": 900.710000356
+    }
+  ]
+}

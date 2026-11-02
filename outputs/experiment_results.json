@@ -1,0 +1,28 @@
+{
+  "shipping_mode_vs_late": {
+    "chi2": 37716.04250472746,
+    "p_value": 0.0,
+    "cramers_v": 0.4571,
+    "late_by_mode": {
+      "First Class": 0.9532,
+      "Second Class": 0.7663,
+      "Same Day": 0.4574,
+      "Standard Class": 0.3807
+    }
+  },
+  "late_by_market": {
+    "Europe": 0.5521,
+    "Pacific Asia": 0.5505,
+    "USCA": 0.548,
+    "Africa": 0.5459,
+    "LATAM": 0.5436
+  },
+  "profit_by_segment_kruskal": {
+    "H": 3.601965690058084,
+    "p_value": 0.16513650484291173
+  },
+  "discount_vs_profit_spearman": {
+    "rho": -0.0018,
+    "p_value": 0.4512702371961629
+  }
+}

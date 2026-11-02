@@ -1,0 +1,5 @@
+cluster,customers,recency,frequency,monetary,segment
+0,5947,77.2,1.0,396.0,Recent buyers
+1,7571,254.6,5.9,3572.2,High-value
+2,2485,30.7,1.0,62.6,New / low-value
+3,4649,452.4,2.7,1555.1,Lapsed

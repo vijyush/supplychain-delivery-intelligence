@@ -1,0 +1,7 @@
+rule,failures,rows,pass_rate_%
+Sales >= 0,0,180519,100.0
+no null order_date,0,180519,100.0
+"Late_delivery_risk in {0,1}",0,180519,100.0
+quantity > 0,0,180519,100.0
+no PII columns remain,0,180519,100.0
+scheduled days >= 0,0,180519,100.0

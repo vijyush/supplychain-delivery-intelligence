@@ -1,0 +1,9 @@
+{
+  "model": "Holt-Winters (add trend/season)",
+  "months_used": 34,
+  "excluded_tail_after": "2017-10-31",
+  "backtest_months": 6,
+  "wape_model": 0.0551,
+  "wape_seasonal_naive": 0.0597,
+  "improvement_vs_naive_pct": 7.6
+}

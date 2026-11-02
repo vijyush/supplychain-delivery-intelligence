@@ -1,0 +1,5 @@
+Shipping Mode,avg_sched,avg_real,avg_variance,on_time_rate,late_rate
+First Class,1.0,2.0,1.0,0.0,0.953
+Same Day,0.0,0.478,0.478,0.497,0.457
+Second Class,2.0,3.991,1.991,0.194,0.766
+Standard Class,4.0,3.996,-0.004,0.577,0.381

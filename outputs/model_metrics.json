@@ -1,0 +1,21 @@
+{
+  "roc_auc": 0.7365,
+  "pr_auc": 0.8016,
+  "brier": 0.1951,
+  "threshold_f1": 0.3655,
+  "precision_at_thr": 0.5538,
+  "recall_at_thr": 0.9865,
+  "confusion_matrix": [
+    [
+      714,
+      19672
+    ],
+    [
+      333,
+      24411
+    ]
+  ],
+  "late_base_rate": 0.5483,
+  "nn_auc": 0.739,
+  "nn_backend": "keras"
+}

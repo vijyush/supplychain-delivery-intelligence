@@ -1,0 +1,16 @@
+feature,importance
+sched_days,0.5423894797975047
+Shipping Mode_Standard Class,0.3397268264713719
+Shipping Mode_First Class,0.047378062896712786
+Shipping Mode_Same Day,0.047308224448116255
+Shipping Mode_Second Class,0.008608373802829762
+order_dow,0.0028948538647215337
+order_month,0.002012928028592822
+discount_rate,0.0010740570757489189
+sales,0.000951096095656804
+product_price,0.000939033897775806
+Order Region_Southern Europe,0.0008220942471779758
+Order Region_Canada,0.0006249810475807534
+Customer Segment_Corporate,0.0004962443502720625
+Order Region_Central Africa,0.000363081638998653
+Order Region_Oceania,0.00032106671983411127
