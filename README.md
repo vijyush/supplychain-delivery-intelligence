@@ -147,5 +147,3 @@ DataCo Smart Supply Chain for Big Data Analysis (Kaggle), by Fabian Constante, I
 **Burra Vijyusha** · IIT Indore · [GitHub](https://github.com/vijyush) · [LinkedIn](https://www.linkedin.com/in/vijyusha-burra-5654a2297/)
 
 Released under the MIT License.
-#   s u p p l y c h a i n - d e l i v e r y - i n t e l l i g e n c e  
- 
